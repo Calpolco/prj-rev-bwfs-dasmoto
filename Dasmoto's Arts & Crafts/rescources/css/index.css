@@ -1,0 +1,36 @@
+h1, h2, h3, p {
+    font-family: Helvetica;
+}
+
+h1 {
+font-size: 100px;
+font-weight: bold;
+text-align: center;
+color: khaki;
+}
+
+.header {
+  background-image: url("/Users/callum/Google Drive/Dasmoto's Arts & Crafts/rescources/pattern-1.jpg");
+  background-color: black;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.Brushes h2 {
+  background-color: mediumspringgreen;
+}
+
+.Frames h2 {
+  background-color: lightcoral;
+}
+.Paint h2 {
+  background-color: skyblue;
+}
+
+strong {
+  color: blue;
+}
